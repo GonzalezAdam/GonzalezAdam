@@ -11,4 +11,4 @@
       Small scripts / Entry-level work
 - 📫 How to reach me ...
       email: adamgonzalez974@gmail.com,
-      linkedin: https://www.linkedin.com/in/adam-gonzalez-613399295/
+      linkedin: www.linkedin.com/in/gonzalezadam974
